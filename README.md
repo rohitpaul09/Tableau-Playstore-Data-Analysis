@@ -39,3 +39,7 @@ The final Tableau story format offers a comprehensive view into the multifaceted
 <a href="https://youtu.be/ynjaMJ85RiY?si=jqZG3WEdsL4VBX4m" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://public.tableau.com/views/PlayStoreAppsDataAnalysis/Story1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://drive.google.com/uc?export=view&id=1J40064tFhrRZEFiOeLOn1aGh8aOauNRo" alt="Tableau Dashboard" style="margin-bottom: 5px; width: 110px; height: 28px;" />
+</a>
