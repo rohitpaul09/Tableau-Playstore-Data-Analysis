@@ -3,6 +3,8 @@
 ## Overview
 This project is centered around two pivotal aspects: Data Preprocessing and Visualization. It aims to provide a comprehensive analysis of Play Store data, focusing on app engagement, user sentiment, and revenue generation.
 
+<img src="https://drive.google.com/uc?id=1AEHHI3M-NozP5ZwDBfuYxtWVOJ4GADmB" alt="tableau playstore dashboard" width="700" height="400">
+
 ## Data Preprocessing
 In this phase, Python was used to perform several critical tasks to ensure the integrity of the data:
 
@@ -29,8 +31,6 @@ The cleansed data was then brought to life through interactive dashboards in Tab
 
 ## Tableau Story
 The culmination of this project is a cohesive Tableau story that combines all three dashboards. This integration provides a seamless and user-friendly experience, allowing users to navigate effortlessly between different data perspectives – engagement, sentiment, and revenue.
-
-<img src="https://drive.google.com/uc?id=1AEHHI3M-NozP5ZwDBfuYxtWVOJ4GADmB" alt="tableau playstore dashboard" width="700" height="400">
 
 ## Conclusion
 The final Tableau story format offers a comprehensive view into the multifaceted nature of the Play Store data, facilitating a deeper understanding and more informed decision-making.
