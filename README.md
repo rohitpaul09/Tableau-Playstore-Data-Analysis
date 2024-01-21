@@ -35,6 +35,10 @@ The culmination of this project is a cohesive Tableau story that combines all th
 ## Conclusion
 The final Tableau story format offers a comprehensive view into the multifaceted nature of the Play Store data, facilitating a deeper understanding and more informed decision-making.
 
+## Contact
+
+For queries or suggestions, contact me at rohitpaul09@gmail.com.
+
 </a>
 <a href="https://youtu.be/ynjaMJ85RiY?si=jqZG3WEdsL4VBX4m" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
